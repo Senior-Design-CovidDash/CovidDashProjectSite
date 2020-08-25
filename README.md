@@ -11,23 +11,29 @@
 
 **Faculty Sponsor:** Dr. Phillip Chan ~ `pkc@cs.fit.edu`
 
-**Client:** Dr. Phillip Chan ~ `pkc@cs.fit.edu` ~ Computer Science
 
 ## Fall 2020 Semester
 
 ### Plan(Aug 31)
 
-### Milestone 1 (Sep 28)
-
 - [Plan]()
 - [Presentation]()
 
+### Milestone 1 (Sep 28)
+
+- [Requirement]()
+- [Design]()
+- [Test]()
+- [Presentation]()
+- [Progress Evaluation]()
+
 ### Milestone 2 (Oct 26)
 
-
+- [Presentation]()
 
 ### Milestone 3 (Nov 23)
 
+- [Presentation]()
 
 
 ---
