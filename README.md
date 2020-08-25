@@ -14,7 +14,7 @@
 
 ## Fall 2020 Semester
 
-### Plan(Aug 31)
+### Plan (Aug 31)
 
 - [Plan]()
 - [Presentation]()
@@ -40,10 +40,10 @@
 
 ## Sprint 2021 Semester
 
-### Plan(Aug 31)
+### Plan (Jan 22)
 
-### Milestone 1 (Sep 28)
+### Milestone 1 (Feb 17)
 
-### Milestone 2 (Oct 26)
+### Milestone 2 (Mar 23)
 
-### Milestone 3 (Nov 23)
+### Milestone 3 (Apr 20)
