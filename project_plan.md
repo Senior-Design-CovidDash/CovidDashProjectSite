@@ -15,7 +15,9 @@ Dr. Phillip Chan ~ `pkc@cs.fit.edu` ~ Computer Science
 
 ## Dates of Planning Meetings
 
-Wednesday August 26th @ 11 AM _via Zoom_
+First occurance: Wednesday August 26th @ 11 AM _via Zoom_
+
+Repeated occurrences: Every 2 weeks on Fridays @ 11 AM
 
 
 ## Approach
@@ -50,5 +52,7 @@ Summary of dates...
 ### Milestone 3 (Nov 25):
 
 - details
+
+### Task Matrix for Milestone 1:
 
 
