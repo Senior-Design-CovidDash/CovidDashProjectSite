@@ -30,9 +30,9 @@ aLadsjfaaa asdfadfa adsfa
 
 ## Technical Challenges
 
-1. CSE related
-2. CSE related
-3. CSE related
+1. API input/JSON parsing
+2. Plotting Data
+3. Map based operations using GIS data
 
 
 ## Milestones
