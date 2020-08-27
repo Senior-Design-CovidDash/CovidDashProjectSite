@@ -1,6 +1,6 @@
-# Covid Dashboard Project Site
+# Senior Design Project Site
 
-**Project Name:** Covid Dashboard
+**Project Name:** Customizable Analysis and Visualization Tool for COVID Cases
 
 **Team Members:** 
 
@@ -16,34 +16,20 @@
 
 ### Plan (Aug 31)
 
-- [Plan](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/project_plan.md#covid-dashboard-project-plan)
-- [Presentation]()
+- [Plan](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Plan/project_plan.md)
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Plan/Presentation.pptx)
 
 ### Milestone 1 (Sep 28)
 
-- [Requirement]()
-- [Design]()
-- [Test]()
-- [Presentation]()
-- [Progress Evaluation]()
+- [Requirement](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Requirement%20Document.md)
+- [Design](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Design%20Document.md)
+- [Test](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Test%20Plan.md)
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Presentation.pptx)
 
 ### Milestone 2 (Oct 26)
 
-- [Presentation]()
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%202/Presentation.pptx)
 
 ### Milestone 3 (Nov 23)
 
-- [Presentation]()
-
-
----
-
-## Sprint 2021 Semester
-
-### Plan (Jan 22)
-
-### Milestone 1 (Feb 17)
-
-### Milestone 2 (Mar 23)
-
-### Milestone 3 (Apr 20)
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%203/Presentation.pptx)

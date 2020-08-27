@@ -22,19 +22,16 @@ Repeated occurrences: Every 2 weeks on Fridays @ 11 AM
 
 ## Approach
 
-Loripsom asdfa asdfjasd
+
 
 
 ## Novel Features/Functionalities
 
-aLadsjfaaa asdfadfa adsfa
+
 
 
 ## Technical Challenges
 
-1. API input/JSON parsing
-2. Plotting Data
-3. Map based operations using GIS data
 
 
 ## Milestones
