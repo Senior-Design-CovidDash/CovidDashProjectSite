@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 # Senior Design Project Site
 
 **Project Name:** Customizable Analysis and Visualization Tool for COVID Cases
