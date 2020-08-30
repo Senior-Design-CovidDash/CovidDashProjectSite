@@ -18,8 +18,8 @@
 
 ### Plan (Aug 31)
 
-- [Plan](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Plan/project_plan.md)
-- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Plan/Presentation.pptx)
+- [Plan]()
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Plan/Presentation.pdf)
 
 ### Milestone 1 (Sep 28)
 
