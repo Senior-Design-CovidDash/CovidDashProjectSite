@@ -23,9 +23,9 @@
 
 ### Milestone 1 (Sep 28)
 
-- [Requirement](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Requirement%20Document.md)
-- [Design](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Design%20Document.md)
-- [Test](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Test%20Plan.md)
+- [Requirement](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Requirements.pdf)
+- [Design](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Design.pdf)
+- [Test](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Test.pdf)
 - [Presentation](https://docs.google.com/presentation/d/1XSCybzKROAysI4veCUlQTs0FjVR5yiAwjxQ1DTZmX-E/edit#slide=id.p)
 - [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Progress%20Evaluation.pdf)
 
