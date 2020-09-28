@@ -11,7 +11,7 @@
 - Nicole Wright ~ `nwright2017@my.fit.edu`
 - Stian Olsen ~ `shagboeolsen2017@my.fit.edu`
 
-**Faculty Sponsor:** Dr. Phillip Chan ~ `pkc@cs.fit.edu`
+**Faculty Sponsor:** Dr. Philip Chan ~ `pkc@cs.fit.edu`
 
 
 ## Fall 2020 Semester
@@ -26,8 +26,8 @@
 - [Requirement](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Requirement%20Document.md)
 - [Design](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Design%20Document.md)
 - [Test](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Test%20Plan.md)
-- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Presentation.pptx)
-- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Progress%20Evaluation.md)
+- [Presentation](https://docs.google.com/presentation/d/1XSCybzKROAysI4veCUlQTs0FjVR5yiAwjxQ1DTZmX-E/edit#slide=id.p)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%201/Progress%20Evaluation.pdf)
 
 ### Milestone 2 (Oct 26)
 
