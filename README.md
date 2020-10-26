@@ -31,8 +31,8 @@
 
 ### Milestone 2 (Oct 26)
 
-- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%202/Presentation.pptx)
-- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%202/Progress%20Evaluation.md)
+- [Presentation](https://docs.google.com/presentation/d/1z9id2Tmy3UY6IWmhp6Hfq9PrbDLwIvE5JuMo5PP7VN0/edit#slide=id.p)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%202/Progress%20Evaluation.pdf)
 
 ### Milestone 3 (Nov 23)
 
