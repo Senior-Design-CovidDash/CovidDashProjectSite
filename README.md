@@ -38,3 +38,29 @@
 
 - [Presentation](https://docs.google.com/presentation/d/13wRyU4KAa26J0ekjCKZL1ZFKA1jvLtMZfmqJdw4hCXw/edit#slide=id.g9b0bf23f2b_0_9)
 - [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%203/Progress%20Evaluation.pdf)
+
+## Spring 2021 Semester
+
+### Plan (Jan 20)
+
+- [Plan](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Semester%202%20Plan/Project%20Plan.md)
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Semester%202%20Plan/Presentation.pptx)
+
+### Milestone 4 (Feb 15)
+
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%204/Presentation.pptx)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%204/Progress%20Evaluation.md)
+
+### Milestone 5 (Mar 15)
+
+- [Poster](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/Poster.pptx)
+- [e-book page](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/e-book%20page.pptx)
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/Presentation.pptx)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/Progress%20Evaluation.md)
+
+### Milestone 6 (Apr 21)
+
+- [User/Developer Manual](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/User-Developer%20Manual.md)
+- [Demo Video](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/Demo%20Video.mov)
+- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/Presentation.pptx)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/Progress%20Evaluation.md)
