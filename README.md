@@ -43,8 +43,8 @@
 
 ### Plan (Jan 20)
 
-- [Plan](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Semester%202%20Plan/Project%20Plan.md)
-- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Semester%202%20Plan/Presentation.pptx)
+- [Plan](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Semester%202%20Plan/Project%20Plan%20-%20Semester%202.pdf)
+- [Presentation](https://docs.google.com/presentation/d/1TzJlDdKs0PUsM3epdHniz374Ll7JDrvvent3BNj1EGE/edit#slide=id.p)
 
 ### Milestone 4 (Feb 15)
 
