@@ -48,8 +48,8 @@
 
 ### Milestone 4 (Feb 15)
 
-- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%204/Presentation.pptx)
-- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%204/Progress%20Evaluation.md)
+- [Presentation](https://docs.google.com/presentation/d/1jvwMGzlVgxKOy29UkPxbn8j49JD8_OKXj-YlCR5lXpo/edit#slide=id.g94ee5fbe3e_0_149)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%204/Progress%20Evaluation.pdf)
 
 ### Milestone 5 (Mar 15)
 
