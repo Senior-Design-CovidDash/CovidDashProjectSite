@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](/logo.png)
 
 # Senior Design Project Site
 
