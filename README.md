@@ -53,10 +53,10 @@
 
 ### Milestone 5 (Mar 15)
 
-- [Poster](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/Poster.pptx)
-- [e-book page](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/e-book%20page.pptx)
-- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/Presentation.pptx)
-- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/Progress%20Evaluation.md)
+- [Poster](https://docs.google.com/presentation/d/13yNS1QWjD2U2h9Cbe47MO8NwEh-zwlOE/edit#slide=id.p1)
+- [e-book page](https://docs.google.com/document/d/1nouSj-07bfc-GMOHJnMYVQD8Zkz-6NEDPILOPCDBDnI/edit)
+- [Presentation](https://docs.google.com/presentation/d/1fDbKcSb8AJuK7I3RgJoJ0sWiKtsHB_LnlLhr2BEBmlY/edit#slide=id.gc7745ac093_0_5)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%205/Progress%20Evaluation.pdf)
 
 ### Milestone 6 (Apr 21)
 
