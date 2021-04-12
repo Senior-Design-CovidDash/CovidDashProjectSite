@@ -1,4 +1,4 @@
-![Logo](/logo.png)
+![Logo](logo.png)
 
 # Senior Design Project Site
 
@@ -60,7 +60,7 @@
 
 ### Milestone 6 (Apr 21)
 
-- [User/Developer Manual](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/User-Developer%20Manual.md)
-- [Demo Video](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/Demo%20Video.mov)
-- [Presentation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/Presentation.pptx)
-- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/Progress%20Evaluation.md)
+- [User/Developer Manual](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/User-Developer-Manual.pdf)
+- [Demo Video](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/COVID-Dash-Demo-Video.mp4)
+- [Presentation](https://docs.google.com/presentation/d/1X3j-aYAeswnVDx1KC_Nhdmb1OXu5Q2Fn6BjkKpbE88c/edit#slide=id.p)
+- [Progress Evaluation](https://github.com/Senior-Design-CovidDash/CovidDashProjectSite/blob/master/Milestone%206/Progress%20Evaluation.pdf)
